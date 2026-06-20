@@ -12,3 +12,4 @@ in `assets/`, Google Fonts (CDN), and a tiny inline countdown script.
 
 The countdown targets **2026-07-02 20:30 (UTC+5)**; both CTA buttons link to the Telegram group.
 # ai-fabrika-spotlight
+# ai-fabrika-azure
